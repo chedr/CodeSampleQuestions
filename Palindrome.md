@@ -1,7 +1,7 @@
 # Palindrome
 
 ### Overview
-Write a platform independent C++11 application that takes a list of strings [a-z] that may or may not be re-arranged to produce a [palindrome](https://en.wikipedia.org/wiki/Palindrome) and print the corresponding palindrome to stdout, if applicable.
+Write a platform independent C++11 application that takes a list of strings [a-z] that may or may not be re-arranged to produce a [palindrome](https://en.wikipedia.org/wiki/Palindrome) and print the corresponding palindrome to **stdout**, if applicable.
 
 ### Re-arranging
 A string may or not be able to produce a palindrome by being re-arranged. For example, the string 'cqc' does not require re-arranging because it is already a palindrome, the string 'zzx' can be re-arranged to 'zxz' to produce a palindrome, and finally the string 'zwq' cannot be re-arranged in any way to produce a palindrome.
