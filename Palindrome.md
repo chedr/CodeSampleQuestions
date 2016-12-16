@@ -1,4 +1,4 @@
-# CPP-Palindrome
+# Palindrome
 
 ### Overview
 Write a platform independent C++11 application that takes a list of strings [a-z] that may or may not be re-arranged to produce a [palindrome](https://en.wikipedia.org/wiki/Palindrome) and print the corresponding palindrome to stdout, if applicable.
